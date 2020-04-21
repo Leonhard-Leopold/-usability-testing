@@ -13,7 +13,7 @@ After creating a test, it can be downloaded and distributed to any number of tes
 When all tasks have been completed (successfully or not), a result file is created. This file can be sent back via different methods. 
 
 - If the test creator submitted an email address the result file can be sent back. 
-- If the creator uploads [this](server/storeResults) PHP script and submits the correct URL to the script at the creation of the test, the test results can be stored on a server. 
+- If the creator uploads [this](https://github.com/Leonhard-Leopold/usability-testing/blob/master/server/storeResults.php) PHP script and submits the correct URL to the script at the creation of the test, the test results can be stored on a server. 
 - If neither of these options are wanted, the tester also has the option to download the result file to sent it via another way.
  
 ## Visualizing the results
