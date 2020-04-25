@@ -1,1 +1,304 @@
-.usability_extension_highlighted{background-color:red!important;border:2px solid red!important}#usability_testing_addon_overlay *,#usability_testing_addon_overlay_toast,#usability_testing_addon_overlay_toast *,.usability_testing_addon_cancel_task,.usability_testing_addon_cancel_task *{all:unset!important;line-height:1.5em!important;color:#000!important;font-family:Arial,monospace!important}#usability_testing_addon_results_table{display:table!important;border-collapse:separate!important;border-spacing:2px!important;border-color:grey!important;margin:0 auto 50px auto!important}#usability_testing_addon_results_table>tbody{display:table-row-group!important;vertical-align:middle!important;border-color:inherit!important}#usability_testing_addon_results_table tr{display:table-row!important;vertical-align:inherit!important;border-color:inherit!important}#usability_testing_addon_results_table th{padding:5px 10px!important;display:table-cell!important;vertical-align:inherit!important;font-weight:700!important;text-align:center!important;border:2px solid #000!important;background-color:#ff7100!important}#usability_testing_addon_results_table td{padding:5px 10px!important;display:table-cell!important;vertical-align:inherit!important;border:2px solid #000!important}#usability_testing_addon_results_table td:nth-of-type(1){text-align:left!important}#usability_testing_addon_overlay input[type=text]{width:320px!important;background-color:#fff!important;padding:8px 15px!important;margin:20px 5px 5px 5px!important;box-sizing:border-box!important;border:2px solid #ccc!important;-webkit-transition:.5s!important;transition:.5s!important;outline:0!important}#usability_testing_addon_overlay .usability_testing_addon_task_instruction{font-size:28px!important;font-weight:700!important;display:block!important;color:#fff!important}#usability_testing_addon_overlay .usability_testing_addon_task_time_limit{font-size:24px!important;color:#fff!important}#usability_testing_addon_overlay input[type=text]:focus{border:2px solid #555!important}#usability_testing_addon_overlay button,.usability_testing_addon_cancel_task{cursor:pointer!important;background-color:#292929!important;color:#fff!important;outline:0!important;text-decoration:none!important;border-radius:5px!important;margin:10px 5px!important;padding:5px 10px!important;transition:all .7s ease-out!important;border:1px solid #383838!important}#usability_testing_addon_overlay button:hover,.usability_testing_addon_cancel_task:hover{transition:all .3s ease-out!important;background-color:#ff7100!important;color:#000!important;border:1px solid #000!important}#usability_testing_addon_overlay div.usability_testing_addon_logo{position:absolute!important;top:35px!important;left:25px!important}#usability_testing_addon_cancel{color:#fff!important;top:15px!important;right:30px!important;transition:all .5s ease-out!important}#usability_testing_addon_overlay .usability_testing_addon_task_success{color:#fff!important;font-size:36px!important;font-weight:700!important;display:block!important}#usability_testing_addon_overlay .usability_testing_addon_cancel_task{color:#fff!important;padding:10px 15px!important;border-radius:5px!important;width:100px!important}#usability_testing_addon_overlay .usability_testing_addon_conclude_task{width:300px!important;height:59px!important;padding:0!important}#usability_testing_addon_overlay textarea{padding:10px 13px!important}#usability_testing_addon_identification{border-radius:4px;margin-top:20px!important;width:320px!important;padding:8px 15px!important}#usability_testing_addon_overlay .usability_testing_addon_start_task{width:150px!important}#usability_testing_addon_overlay .usability_testing_addon_logo>img{height:55px!important;width:60px!important;margin:-5px 30px 0 15px!important}#usability_testing_addon_overlay .usability_testing_addon_logo>span{font-size:40px!important;top:-7px!important;position:relative!important;color:#ff7100!important;vertical-align:top!important}#usability_testing_addon_take_test{margin-top:25px!important;width:330px!important}#usability_testing_addon_overlay .logo_button,.usability_testing_addon_cancel_task{padding:0!important}#usability_testing_addon_cancel:hover{color:#ff7100!important}#usability_testing_addon_overlay .logo_button>span,.usability_testing_addon_cancel_task>span{position:relative!important;left:-13px!important;z-index:2!important;height:48px!important;padding-top:10px!important;display:inline-block!important;background-color:#292929!important;color:#fff!important;transition:background-color .7s ease-out,left .3s ease-out!important}#usability_testing_addon_overlay #usability_testing_addon_download_result,#usability_testing_addon_overlay #usability_testing_addon_end_test,#usability_testing_addon_overlay #usability_testing_addon_send_result_email{display:inline-block!important;margin:5px 15px!important;width:300px!important;height:65px!important}#usability_testing_addon_overlay #usability_testing_addon_download_result span,#usability_testing_addon_overlay #usability_testing_addon_end_test span,#usability_testing_addon_overlay #usability_testing_addon_send_result_email span{height:45px!important}#usability_testing_addon_overlay #usability_testing_addon_send_result_email{width:320px!important}#usability_testing_addon_overlay .logo_button>img,.usability_testing_addon_cancel_task>img{z-index:1!important;transition:all .2s ease-out!important;position:relative!important;left:30px!important;height:28px!important;top:6px!important}#usability_testing_addon_cancel_task:hover>span,#usability_testing_addon_overlay .logo_button:hover>span{transition:all .3s ease-out!important;left:10px!important;background-color:#ff7100!important;color:#000!important}#usability_testing_addon_overlay .logo_button:hover>img,.usability_testing_addon_cancel_task:hover>img{left:0!important}#usability_testing_addon_overlay .logo_button.medium>span,.usability_testing_addon_cancel_task.medium>span{height:24px!important;padding-top:1px!important;left:-19px!important;background-color:#292929!important}#usability_testing_addon_overlay .logo_button.medium>img,.usability_testing_addon_cancel_task.medium>img{height:18px!important;top:4px!important}#usability_testing_addon_overlay .logo_button.medium:hover>img,.usability_testing_addon_cancel_task.medium:hover>img{left:-13px!important}#usability_testing_addon_overlay .logo_button.medium:hover>span,.usability_testing_addon_cancel_task.medium:hover>span{left:-5px!important;background-color:#ff7100!important;color:#000!important;transition:all .3s ease-out!important}.usability_testing_addon_cancel_task.medium{background-color:#ff7100!important;color:#000!important}.usability_testing_addon_cancel_task.medium>img{left:-13px!important}.usability_testing_addon_cancel_task.medium>span{left:-5px!important;background-color:#ff7100!important;color:#000!important}.usability_testing_addon_cancel_task.medium:hover,.usability_testing_addon_cancel_task.medium:hover>span{background-color:#bf5500!important}#usability_testing_addon_overlay_toast{border:1px solid #000!important;width:calc(100% - 150px)!important;margin-left:50px!important;box-shadow:0 4px 8px 0 rgba(0,0,0,.2),0 6px 20px 0 rgba(0,0,0,.19)!important;height:-webkit-fit-content!important;height:-moz-fit-content!important;height:fit-content!important;position:fixed!important;top:35px!important;border-radius:20px!important;color:#fff!important;background-color:#ff7100!important;z-index:16777271!important;text-align:center!important;font-size:26px!important;padding:35px 25px!important;opacity:0!important;transform:scale(0)!important;transition:opacity .5s ease-out,transform .2s linear!important}#usability_testing_addon_overlay_toast h3{display:block!important;font-size:32px!important;margin-bottom:24px!important}#usability_testing_addon_overlay_toast>p{word-break:break-word}#usability_testing_addon_results_table tr td{color:#fff!important}#usability_testing_addon_results_table tbody:first-child td{color:#000}
+.usability_extension_highlighted {
+    background-color: red !important;
+    border: 2px solid red !important
+}
+
+#usability_testing_addon_overlay *, #usability_testing_addon_overlay_toast, #usability_testing_addon_overlay_toast *, .usability_testing_addon_cancel_task, .usability_testing_addon_cancel_task * {
+    all: unset !important;
+    line-height: 1.5em !important;
+    color: #000 !important;
+    font-family: Arial, monospace !important
+}
+
+#usability_testing_addon_results_table {
+    display: table !important;
+    border-collapse: separate !important;
+    border-spacing: 2px !important;
+    border-color: grey !important;
+    margin: 0 auto 50px auto !important
+}
+
+#usability_testing_addon_results_table > tbody {
+    display: table-row-group !important;
+    vertical-align: middle !important;
+    border-color: inherit !important
+}
+
+#usability_testing_addon_results_table tr {
+    display: table-row !important;
+    vertical-align: inherit !important;
+    border-color: inherit !important
+}
+
+#usability_testing_addon_results_table th {
+    padding: 5px 10px !important;
+    display: table-cell !important;
+    vertical-align: inherit !important;
+    font-weight: 700 !important;
+    text-align: center !important;
+    border: 2px solid #000 !important;
+    background-color: #ff7100 !important
+}
+
+#usability_testing_addon_results_table td {
+    padding: 5px 10px !important;
+    display: table-cell !important;
+    vertical-align: inherit !important;
+    border: 2px solid #000 !important
+}
+
+#usability_testing_addon_results_table td:nth-of-type(1) {
+    text-align: left !important
+}
+
+#usability_testing_addon_overlay input[type=text] {
+    width: 320px !important;
+    background-color: #fff !important;
+    padding: 8px 15px !important;
+    margin: 20px 5px 5px 5px !important;
+    box-sizing: border-box !important;
+    border: 2px solid #ccc !important;
+    -webkit-transition: .5s !important;
+    transition: .5s !important;
+    outline: 0 !important
+}
+
+#usability_testing_addon_overlay .usability_testing_addon_task_instruction {
+    font-size: 28px !important;
+    font-weight: 700 !important;
+    display: block !important;
+    color: white !important;
+}
+
+#usability_testing_addon_overlay .usability_testing_addon_task_time_limit {
+    font-size: 24px !important;
+    color: white !important;
+}
+
+#usability_testing_addon_overlay input[type=text]:focus {
+    border: 2px solid #555 !important
+}
+
+#usability_testing_addon_overlay button, .usability_testing_addon_cancel_task {
+    cursor: pointer !important;
+    background-color: #292929 !important;
+    color: #fff !important;
+    outline: 0 !important;
+    text-decoration: none !important;
+    border-radius: 5px !important;
+    margin: 10px 5px !important;
+    padding: 5px 10px !important;
+    transition: all .7s ease-out !important;
+    border: 1px solid #383838 !important
+}
+
+#usability_testing_addon_overlay button:hover, .usability_testing_addon_cancel_task:hover {
+    transition: all .3s ease-out !important;
+    background-color: #ff7100 !important;
+    color: #000 !important;
+    border: 1px solid #000 !important
+}
+
+#usability_testing_addon_overlay div.usability_testing_addon_logo {
+    position: absolute !important;
+    top: 35px !important;
+    left: 25px !important
+}
+
+#usability_testing_addon_cancel {
+    color: #fff !important;
+    top: 15px !important;
+    right: 30px !important;
+    transition: all .5s ease-out !important
+}
+
+#usability_testing_addon_overlay .usability_testing_addon_task_success {
+    color: white !important;
+    font-size: 36px !important;
+    font-weight: 700 !important;
+    display: block !important
+}
+
+#usability_testing_addon_overlay .usability_testing_addon_cancel_task {
+    color: #fff !important;
+    padding: 10px 15px !important;
+    border-radius: 5px !important;
+    width: 100px !important
+}
+
+#usability_testing_addon_overlay .usability_testing_addon_conclude_task {
+    width: 300px !important;
+    height: 59px !important;
+    padding: 0 !important
+}
+
+#usability_testing_addon_overlay textarea {
+    padding: 10px 13px !important
+}
+
+#usability_testing_addon_identification {
+    border-radius: 4px;
+    margin-top: 20px !important;
+    width: 320px !important;
+    padding: 8px 15px !important
+}
+
+#usability_testing_addon_overlay .usability_testing_addon_start_task {
+    width: 150px !important
+}
+
+#usability_testing_addon_overlay .usability_testing_addon_logo > img {
+    height: 55px !important;
+    width: 60px !important;
+    margin: -5px 30px 0 15px !important
+}
+
+#usability_testing_addon_overlay .usability_testing_addon_logo > span {
+    font-size: 40px !important;
+    top: -7px !important;
+    position: relative !important;
+    color: #ff7100 !important;
+    vertical-align: top !important
+}
+
+#usability_testing_addon_take_test {
+    margin-top: 25px !important;
+    width: 330px !important
+}
+
+#usability_testing_addon_overlay .logo_button, .usability_testing_addon_cancel_task {
+    padding: 0 !important
+}
+
+#usability_testing_addon_cancel:hover {
+    color: #ff7100 !important
+}
+
+#usability_testing_addon_overlay .logo_button > span, .usability_testing_addon_cancel_task > span {
+    position: relative !important;
+    left: -13px !important;
+    z-index: 2 !important;
+    height: 48px !important;
+    padding-top: 10px !important;
+    display: inline-block !important;
+    background-color: #292929 !important;
+    color: #fff !important;
+    transition: background-color .7s ease-out, left .3s ease-out !important
+}
+
+#usability_testing_addon_overlay #usability_testing_addon_download_result, #usability_testing_addon_overlay #usability_testing_addon_end_test, #usability_testing_addon_overlay #usability_testing_addon_send_result_email {
+    display: inline-block !important;
+    margin: 5px 15px !important;
+    width: 300px !important;
+    height: 65px !important
+}
+
+#usability_testing_addon_overlay #usability_testing_addon_download_result span, #usability_testing_addon_overlay #usability_testing_addon_end_test span, #usability_testing_addon_overlay #usability_testing_addon_send_result_email span {
+    height: 45px !important;
+}
+
+#usability_testing_addon_overlay #usability_testing_addon_send_result_email {
+    width: 320px !important
+}
+
+#usability_testing_addon_overlay .logo_button > img, .usability_testing_addon_cancel_task > img {
+    z-index: 1 !important;
+    transition: all .2s ease-out !important;
+    position: relative !important;
+    left: 30px !important;
+    height: 28px !important;
+    top: 6px !important
+}
+
+#usability_testing_addon_cancel_task:hover > span, #usability_testing_addon_overlay .logo_button:hover > span {
+    transition: all .3s ease-out !important;
+    left: 10px !important;
+    background-color: #ff7100 !important;
+    color: #000 !important
+}
+
+#usability_testing_addon_overlay .logo_button:hover > img, .usability_testing_addon_cancel_task:hover > img {
+    left: 0 !important
+}
+
+#usability_testing_addon_overlay .logo_button.medium > span, .usability_testing_addon_cancel_task.medium > span {
+    height: 24px !important;
+    padding-top: 1px !important;
+    left: -19px !important;
+    background-color: #292929 !important
+}
+
+#usability_testing_addon_overlay .logo_button.medium > img, .usability_testing_addon_cancel_task.medium > img {
+    height: 18px !important;
+    top: 4px !important
+}
+
+#usability_testing_addon_overlay .logo_button.medium:hover > img, .usability_testing_addon_cancel_task.medium:hover > img {
+    left: -13px !important
+}
+
+#usability_testing_addon_overlay .logo_button.medium:hover > span, .usability_testing_addon_cancel_task.medium:hover > span {
+    left: -5px !important;
+    background-color: #ff7100 !important;
+    color: #000 !important;
+    transition: all .3s ease-out !important
+}
+
+.usability_testing_addon_cancel_task.medium {
+    background-color: #ff7100 !important;
+    color: #000 !important
+}
+
+.usability_testing_addon_cancel_task.medium > img {
+    left: -13px !important
+}
+
+.usability_testing_addon_cancel_task.medium > span {
+    left: -5px !important;
+    background-color: #ff7100 !important;
+    color: #000 !important
+}
+
+.usability_testing_addon_cancel_task.medium:hover, .usability_testing_addon_cancel_task.medium:hover > span {
+    background-color: #bf5500 !important
+}
+
+#usability_testing_addon_overlay_toast {
+    border: 1px solid #000 !important;
+    width: calc(100% - 150px) !important;
+    margin-left: 50px !important;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, .2), 0 6px 20px 0 rgba(0, 0, 0, .19) !important;
+    height: -webkit-fit-content !important;
+    height: -moz-fit-content !important;
+    height: fit-content !important;
+    position: fixed !important;
+    top: 35px !important;
+    border-radius: 20px !important;
+    color: #fff !important;
+    background-color: #ff7100 !important;
+    z-index: 16777271 !important;
+    text-align: center !important;
+    font-size: 26px !important;
+    padding: 35px 25px !important;
+    opacity: 0 !important;
+    transform: scale(0) !important;
+    transition: opacity .5s ease-out, transform .2s linear !important
+}
+
+#usability_testing_addon_overlay_toast h3 {
+    display: block !important;
+    font-size: 32px !important;
+    margin-bottom: 24px !important
+}
+
+#usability_testing_addon_overlay_toast > p {
+    word-break: break-word
+}
+
+#usability_testing_addon_results_table tr td {
+    color: #fff !important
+}
+
+#usability_testing_addon_results_table tbody:first-child td {
+    color: #000
+}
