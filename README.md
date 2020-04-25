@@ -28,7 +28,8 @@ More information about me on can be found on [my webpage (currently under constr
 
 ## How to use
 A quick way to install it is to go the [Chrome Web Store](https://chrome.google.com/webstore/detail/usability-testing/hknopnlikakmpdnnnolojjjmkeckhagn). If downloaded, the developer options need to be activated and the folder containing the implementation needs to be uploaded to the browser. 
-The extension is generalized for every browser in terms of internal communications of the software. With the help of special browsers, browser extenstion can also be used on mobile devices.
+The extension is generalized for every browser in terms of internal communications of the software. 
+With the help of special browsers, extenstions also can be used on mobile devices.
 
 ## Possible Additions & Current Issues
 - Some browsers like don't allow the selection of files. Therefore another method for importing the test files needs to be created.
